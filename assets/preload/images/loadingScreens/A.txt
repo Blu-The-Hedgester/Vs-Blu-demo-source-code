@@ -1,0 +1,4 @@
+I made these loadin screens in waves,
+
+wave 1 starts at the first loadin screen.
+wave 2 starts at the 8th loadin screen.
